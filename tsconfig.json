@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		"target": "ES2016",
+		"lib": ["ESNext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"noEmit": false,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"incremental": false,
+		"forceConsistentCasingInFileNames": true,
+		"rootDir": "./src",
+		"outDir": "./build",
+		"baseUrl": ".",
+		"paths": {}
+	},
+	
+	"include": ["./src"],
+	"exclude": ["node_modules"]
+}

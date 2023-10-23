@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaMyshkin/design-patterns.git"
+  },
+  "keywords": [
+    "design-patterns",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Alexander Iovanovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaMyshkin/design-patterns/issues"
+  },
+  "homepage": "https://github.com/SashaMyshkin/design-patterns#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
